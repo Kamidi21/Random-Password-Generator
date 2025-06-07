@@ -9,6 +9,10 @@ A simple web application that generates a secure, random password with a single 
 - One-click copy to clipboard functionality
 - Responsive and user-friendly UI
 
+## 📸 Demo
+
+You can try the live version here: [Random-Password-Generator](https://random-password-generator-lilac-rho.vercel.app/)  
+
 ## 🛠️ Technologies Used
 
 - HTML5
